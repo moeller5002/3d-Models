@@ -1,0 +1,33 @@
+Radius,mm,99 mm,Radius of portion of lid inserted into pan
+InsertLength,mm,7 mm,Length of portion of lid inserted into pan
+LipLength,mm,6.125 mm,Length of lid lip
+LipHeight,mm,7.5 mm,Height of lid lip
+Fillet1,mm,2.5 mm,"Fillet to round out corner between InsertLength & LipLength
+"
+Fillet2,mm,2 mm,Fillet to round out corner between LipLength & LipHeight
+Fillet3,mm,2 mm,Fillet to round out corner between LipHeight & Top of pan
+Clearance,mm,-0.25 mm,Difference in dimension between lid & holder. Adjust for tighter/looser fit
+RetainerLength,mm,7.50 mm,Length of wall that retains the lid from falling out. Too long and it will collide with dome of lid.
+FrontThickness,mm,4 mm,Thickness of Retainer Wall
+BackThickness,mm,4 mm,Thickness of back wall
+HolderRadius,mm,Radius + LipLength + 3 mm,Max radius of the holder.
+BackFillet,mm,8 mm,Fillet to round out back side of holder
+FrontFillet,mm,8 mm,Fillet to round out front side of holder
+DomeHeight,mm,20.00 mm,Max height of dome above the LipHeight
+DomeRadius,mm,87 mm,Max radius of dome above the LipHeight
+HolderOffset,mm,37.5 mm,Distance from center of potlid to top of the holder
+HolderHeight,mm,25 mm,Vertical height of the holder
+d20,mm,20 mm,
+d21,mm,20 mm,
+d22,mm,20 mm,
+d23,mm,20 mm,
+ScrewOffset,mm,Radius - 12.5 mm,Distance from center of holder to center of screw hole
+ScrewHeadDiam,mm,7 mm,Diameter of screw head
+ScrewShaftDiam,mm,4 mm,Diameter of screw shaft
+d24,deg,360.0 deg,
+d28,mm,-10.00 mm,
+d29,deg,0.0 deg,
+d30,mm,-1.00 mm,
+d31,deg,-45.0 deg,
+d32,mm,0.00 mm,
+d33,deg,0.0 deg,
